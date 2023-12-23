@@ -25,4 +25,3 @@ ML Engineer
 
 <a href="http://www.github.com/krell11"><img src="https://github-readme-stats.vercel.app/api?username=krell11&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="krell11's GitHub stats" /></a>
 
-<a href="http://www.github.com/krell11"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=krell11&bg_color=000000&color=0891b2&line=0891b2&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
