@@ -5,8 +5,8 @@ ML Engineer
 -----------
 
 * 🌍  I'm based in Saint Petersburg
-* 🧠  I'm learning LLM
-
+* 🧠  I'm learning DL, LLM and 
+ 
 ### Skills
 
 
