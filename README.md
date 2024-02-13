@@ -5,7 +5,7 @@ ML Engineer
 -----------
 
 * 🌍  I'm based in Saint Petersburg
-* 🧠  I'm learning DL, LLM and 
+* 🧠  I'm learning DL, LLM and PINN models
  
 ### Skills
 
