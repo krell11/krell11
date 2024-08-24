@@ -33,4 +33,4 @@ I am a passionate **Data Scientist** from Saint Petersburg. I am currently study
 </p>
 
 ## 📊 GitHub Stats
-![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=krell11&show_icons=true&theme=radical)
