@@ -1,9 +1,6 @@
 # Hi there, I'm Kirill Bobin! 👋
 
-I am a passionate **Data Scientist** from Saint Petersburg. I am currently studying at **SPBSTU** and working as a research assistant in the **Machine Learning department** of the CompMeshLab.
-
 ## 🚀 About Me
-- 🔭 I’m currently working on AI-powered application for easy content generation.
 - 🎓 I’m studying at **Saint Petersburg State Polytechnic University** (SPBSTU).
 - 📫 You can reach me at: @krellQ (tg)
 
